@@ -10,3 +10,5 @@ The login page will redirect you to the main page when you login.
 
 The Login page is seperated by the folder Login.rar and everything is integrated in the Programme-detector main.rar. The user must use the public folder in the extracted file to view the contents. index.html will carry you to the login page. You may login with ID:guest@hotmail.com  pw:password123 or register a new account.
 
+
+The UploadData file is used to add more degrees and subjects to the database that is searchable by the user.
